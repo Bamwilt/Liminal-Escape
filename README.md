@@ -1,6 +1,6 @@
 # Liminal Escape
 
-![Liminal Escape image](../assets/imgs/imagen1.png)
+![Liminal Escape image](ProjectLuminal/assets/imgs/Imagen1.jpg)
 
 ### Description
 
