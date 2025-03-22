@@ -1,6 +1,6 @@
 # Liminal Escape
 
-![Liminal Escape image](../assets/imgs/mi-imagen.png)
+![Liminal Escape image](../assets/imgs/imagen1.png)
 
 ### Description
 
