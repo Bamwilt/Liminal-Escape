@@ -1,5 +1,7 @@
 # Liminal Escape
 
+![Liminal Escape image](../assets/imgs/mi-imagen.png)
+
 ### Description
 
 Liminal Escape es un juego de exploración inspirado en las Backrooms. El 
@@ -44,4 +46,4 @@ steps for execution
 
 1. [Luis Perez](https://github.com/Bamwilt)
 
-##### License MIT
+##### License MIT - (created in 2025)
